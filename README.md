@@ -1,2 +1,2 @@
-# stark
+# Stark
 Stencil Benchmark Suite
