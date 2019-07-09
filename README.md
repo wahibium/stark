@@ -1,2 +1,2 @@
 # STARK
-STencil BenchmARK Suite
+STencil BenchmARK suite
