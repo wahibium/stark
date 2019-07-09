@@ -1,0 +1,2 @@
+# stark
+Stencil Benchmark Suite
